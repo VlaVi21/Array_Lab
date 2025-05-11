@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual_Studio_Proj_Location\\Laba_1_C\u002B\u002B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A13A73D-DC01-46F0-A6FC-72BFA0C9EAC9}|Laba_1_C\u002B\u002B\\Laba_1_C\u002B\u002B.vcxproj|D:\\Visual_Studio_Proj_Location\\Laba_1_C\u002B\u002B\\Laba_1_C\u002B\u002B\\array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A13A73D-DC01-46F0-A6FC-72BFA0C9EAC9}|Laba_1_C\u002B\u002B\\Laba_1_C\u002B\u002B.vcxproj|solutionrelative:Laba_1_C\u002B\u002B\\array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A13A73D-DC01-46F0-A6FC-72BFA0C9EAC9}|Laba_1_C\u002B\u002B\\Laba_1_C\u002B\u002B.vcxproj|D:\\Visual_Studio_Proj_Location\\Laba_1_C\u002B\u002B\\Laba_1_C\u002B\u002B\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A13A73D-DC01-46F0-A6FC-72BFA0C9EAC9}|Laba_1_C\u002B\u002B\\Laba_1_C\u002B\u002B.vcxproj|solutionrelative:Laba_1_C\u002B\u002B\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A13A73D-DC01-46F0-A6FC-72BFA0C9EAC9}|Laba_1_C\u002B\u002B\\Laba_1_C\u002B\u002B.vcxproj|D:\\Visual_Studio_Proj_Location\\Laba_1_C\u002B\u002B\\Laba_1_C\u002B\u002B\\array.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A13A73D-DC01-46F0-A6FC-72BFA0C9EAC9}|Laba_1_C\u002B\u002B\\Laba_1_C\u002B\u002B.vcxproj|solutionrelative:Laba_1_C\u002B\u002B\\array.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "array.h",
+              "DocumentMoniker": "D:\\Visual_Studio_Proj_Location\\Laba_1_C\u002B\u002B\\Laba_1_C\u002B\u002B\\array.h",
+              "RelativeDocumentMoniker": "Laba_1_C\u002B\u002B\\array.h",
+              "ToolTip": "D:\\Visual_Studio_Proj_Location\\Laba_1_C\u002B\u002B\\Laba_1_C\u002B\u002B\\array.h",
+              "RelativeToolTip": "Laba_1_C\u002B\u002B\\array.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-22T08:38:39.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Visual_Studio_Proj_Location\\Laba_1_C\u002B\u002B\\Laba_1_C\u002B\u002B\\main.cpp",
+              "RelativeDocumentMoniker": "Laba_1_C\u002B\u002B\\main.cpp",
+              "ToolTip": "D:\\Visual_Studio_Proj_Location\\Laba_1_C\u002B\u002B\\Laba_1_C\u002B\u002B\\main.cpp",
+              "RelativeToolTip": "Laba_1_C\u002B\u002B\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-22T08:38:35.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "array.cpp",
+              "DocumentMoniker": "D:\\Visual_Studio_Proj_Location\\Laba_1_C\u002B\u002B\\Laba_1_C\u002B\u002B\\array.cpp",
+              "RelativeDocumentMoniker": "Laba_1_C\u002B\u002B\\array.cpp",
+              "ToolTip": "D:\\Visual_Studio_Proj_Location\\Laba_1_C\u002B\u002B\\Laba_1_C\u002B\u002B\\array.cpp",
+              "RelativeToolTip": "Laba_1_C\u002B\u002B\\array.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-22T08:38:29.557Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
